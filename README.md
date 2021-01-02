@@ -29,9 +29,10 @@
         - [단어변환](https://www.notion.so/chrisyang9305/409de795f064471992ee8c5065e54c69)
     
     - **그래프**
-    
+        - [순위](https://www.notion.so/chrisyang9305/fe81b3abf0e947b5831fc0e97806aea8)
     - **동적계획법**
-    
+        - [정수 삼각형](https://www.notion.so/chrisyang9305/a81eafccae8c4033a651d891621aefe3)
+        - [등굣길](https://www.notion.so/chrisyang9305/11a6bbce3b19482299b12a0c16e7a00a)
     - **해시**
     
     - **이분탐색**
