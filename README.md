@@ -37,9 +37,9 @@
     - **이분탐색**
         - [입국 심사](https://www.notion.so/chrisyang9305/8a6aed503be94c458efd2c64eae1a88f)
     - **힙**
-    
-    - ### **기타**
-
+        - [이중 우선순위큐](https://www.notion.so/chrisyang9305/ceb0311601534bd1a1975835ac1b0ed9)
+    - **기타**
+        - [2 x n 타일링](https://www.notion.so/chrisyang9305/2-x-n-46fa13655757456c9dcda02f41f49f2a)
 *  ### **카카오 기출**
 
 <br><br>
