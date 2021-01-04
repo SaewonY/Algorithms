@@ -41,7 +41,9 @@
     - **기타**
         - [2 x n 타일링](https://www.notion.so/chrisyang9305/2-x-n-46fa13655757456c9dcda02f41f49f2a)
 *  ### **카카오 기출**
-
+    - [문자열 압축](https://www.notion.so/chrisyang9305/b12256308c7a4632b17bf319ab0579e1)
+    - [괄호 변환](https://www.notion.so/chrisyang9305/0828913a3e3445ecb628839ef842a180)
+    
 <br><br>
 
 ## **3. Leetcode**
