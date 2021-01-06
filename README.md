@@ -50,3 +50,5 @@
 
 - [3. Longest Substring](https://www.notion.so/chrisyang9305/3-Longest-Substring-42eb69ef19bf4c688ff88cda122c354c)
 - [4. Median of Two Sorted Array](https://www.notion.so/chrisyang9305/4-Median-of-Two-Sorted-Arrays-1770a9ed753048058f65425dd4c2ab32)
+- [6. Valid Parenthesis](https://www.notion.so/chrisyang9305/6-Valid-Parenthesis-3fe647130488458bbdcfaae276ccc4a3)
+- [11. Container with most Water](https://www.notion.so/chrisyang9305/11-Container-with-most-Water-5d73ba794a5444a195dbd045464a9795)
