@@ -52,3 +52,5 @@
 - [4. Median of Two Sorted Array](https://www.notion.so/chrisyang9305/4-Median-of-Two-Sorted-Arrays-1770a9ed753048058f65425dd4c2ab32)
 - [6. Valid Parenthesis](https://www.notion.so/chrisyang9305/6-Valid-Parenthesis-3fe647130488458bbdcfaae276ccc4a3)
 - [11. Container with most Water](https://www.notion.so/chrisyang9305/11-Container-with-most-Water-5d73ba794a5444a195dbd045464a9795)
+- [12. Interger to Roman](https://www.notion.so/chrisyang9305/12-Integer-to-Roman-d88efc1914fc49f7b680f9832c51b9a8)
+- [17. Letter Combination of a Phone number](https://www.notion.so/chrisyang9305/17-Letter-Combination-of-a-Phone-number-814a3761be3b46e5af45976b28b65b4e)
