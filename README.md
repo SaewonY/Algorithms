@@ -54,3 +54,5 @@
 - [11. Container with most Water](https://www.notion.so/chrisyang9305/11-Container-with-most-Water-5d73ba794a5444a195dbd045464a9795)
 - [12. Interger to Roman](https://www.notion.so/chrisyang9305/12-Integer-to-Roman-d88efc1914fc49f7b680f9832c51b9a8)
 - [17. Letter Combination of a Phone number](https://www.notion.so/chrisyang9305/17-Letter-Combination-of-a-Phone-number-814a3761be3b46e5af45976b28b65b4e)
+- [22. Generate Parenthesis](https://www.notion.so/chrisyang9305/22-Generate-Parenthesis-6cea478f7c2f4a408bdb64a4d11bb240)
+- [23. Merge K sorted Lists](https://www.notion.so/chrisyang9305/23-Merge-k-Sorted-Lists-de562fb83aff4d7285b399cf64b35b41)
