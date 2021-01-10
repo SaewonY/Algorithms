@@ -58,3 +58,5 @@
 - [23. Merge K sorted Lists](https://www.notion.so/chrisyang9305/23-Merge-k-Sorted-Lists-de562fb83aff4d7285b399cf64b35b41)
 - [41. First Missing Positive](https://www.notion.so/chrisyang9305/41-First-Missing-Positive-5ffaeeb8b24f45e3b4a53374115d2468)
 - [42. Trapping Water Rain](https://www.notion.so/chrisyang9305/42-Trapping-Rain-Water-947a32aa2dcd40c5933a31e6face4070)
+- [49. Group Anangram](https://www.notion.so/chrisyang9305/49-Group-Anagram-89aa2cb25790444d8c47cfaccf9aa3e0)
+- [57. Insert Interval](https://www.notion.so/chrisyang9305/57-Insert-Interval-12b11d732e3c4c7a813b16d4939f3596)
