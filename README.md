@@ -56,3 +56,5 @@
 - [17. Letter Combination of a Phone number](https://www.notion.so/chrisyang9305/17-Letter-Combination-of-a-Phone-number-814a3761be3b46e5af45976b28b65b4e)
 - [22. Generate Parenthesis](https://www.notion.so/chrisyang9305/22-Generate-Parenthesis-6cea478f7c2f4a408bdb64a4d11bb240)
 - [23. Merge K sorted Lists](https://www.notion.so/chrisyang9305/23-Merge-k-Sorted-Lists-de562fb83aff4d7285b399cf64b35b41)
+- [41. First Missing Positive](https://www.notion.so/chrisyang9305/41-First-Missing-Positive-5ffaeeb8b24f45e3b4a53374115d2468)
+- [42. Trapping Water Rain](https://www.notion.so/chrisyang9305/42-Trapping-Rain-Water-947a32aa2dcd40c5933a31e6face4070)
