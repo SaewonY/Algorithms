@@ -10,6 +10,12 @@
 
 ## **1. 백준**
 
+<br>
+
+* #### 정렬
+    * [1092. 배](https://www.notion.so/chrisyang9305/1092-abd2bc25142843bd8eba5ade936bb2b9)
+    * [2212. 센서](https://www.notion.so/chrisyang9305/2212-5dcf5f36f76c4aa08ffeff1a6ba74388)
+
 <br><br>
 
 ## **2. 프로그래머스**
@@ -60,3 +66,4 @@
 - [42. Trapping Water Rain](https://www.notion.so/chrisyang9305/42-Trapping-Rain-Water-947a32aa2dcd40c5933a31e6face4070)
 - [49. Group Anangram](https://www.notion.so/chrisyang9305/49-Group-Anagram-89aa2cb25790444d8c47cfaccf9aa3e0)
 - [57. Insert Interval](https://www.notion.so/chrisyang9305/57-Insert-Interval-12b11d732e3c4c7a813b16d4939f3596)
+- [72. Edit Distance](https://www.notion.so/chrisyang9305/72-Edit-Distance-4475e1e0d0b040399b5168504d5d7126)
