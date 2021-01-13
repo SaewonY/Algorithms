@@ -15,6 +15,8 @@
 * #### 정렬
     * [1092. 배](https://www.notion.so/chrisyang9305/1092-abd2bc25142843bd8eba5ade936bb2b9)
     * [2212. 센서](https://www.notion.so/chrisyang9305/2212-5dcf5f36f76c4aa08ffeff1a6ba74388)
+    * [2473. 세 용액](https://www.notion.so/chrisyang9305/2473-5bd3f4861112473f840b6004ab3820d3)
+    * [10800. 컬러볼](https://www.notion.so/chrisyang9305/10800-f1a25f07686d4637b0c6420c3703fcfd)
 
 <br><br>
 
