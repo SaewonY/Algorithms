@@ -20,6 +20,10 @@
     * [5052. 전화번호 목록](https://www.notion.so/chrisyang9305/5052-4c25e894b5ca469dba3cc95a027931f2)
     * [1826. 연료채우기](https://www.notion.so/chrisyang9305/1826-7565533049654e86872593a29fc06c44)
 
+* #### 구현
+    * [16236. 아기 상어](https://www.notion.so/chrisyang9305/16236-330e730e8bd94277bca857d3fcf935c4)
+    * [13460. 구슬 탈출2](https://www.notion.so/chrisyang9305/13460-2-d977ffdf3d7d49fa9b0931c492e12968)
+
 <br><br>
 
 ## **2. 프로그래머스**
