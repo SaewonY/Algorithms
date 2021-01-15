@@ -17,6 +17,8 @@
     * [2212. 센서](https://www.notion.so/chrisyang9305/2212-5dcf5f36f76c4aa08ffeff1a6ba74388)
     * [2473. 세 용액](https://www.notion.so/chrisyang9305/2473-5bd3f4861112473f840b6004ab3820d3)
     * [10800. 컬러볼](https://www.notion.so/chrisyang9305/10800-f1a25f07686d4637b0c6420c3703fcfd)
+    * [5052. 전화번호 목록](https://www.notion.so/chrisyang9305/5052-4c25e894b5ca469dba3cc95a027931f2)
+    * [1826. 연료채우기](https://www.notion.so/chrisyang9305/1826-7565533049654e86872593a29fc06c44)
 
 <br><br>
 
