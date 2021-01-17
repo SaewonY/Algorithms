@@ -23,7 +23,11 @@
 * #### 구현
     * [16236. 아기 상어](https://www.notion.so/chrisyang9305/16236-330e730e8bd94277bca857d3fcf935c4)
     * [13460. 구슬 탈출2](https://www.notion.so/chrisyang9305/13460-2-d977ffdf3d7d49fa9b0931c492e12968)
+    * [14500. 테트로미노](https://www.notion.so/chrisyang9305/14500-ff4f03482ed84ceebed3d6082de42251)
 
+* #### Greedy
+    * [1339. 단어 수학](https://www.notion.so/chrisyang9305/1339-3370c510632748f7a1839fc0f5972f15)
+    
 <br><br>
 
 ## **2. 프로그래머스**
