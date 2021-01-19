@@ -29,7 +29,12 @@
     * [1339. 단어 수학](https://www.notion.so/chrisyang9305/1339-3370c510632748f7a1839fc0f5972f15)
     * [1744. 수 묶기](https://www.notion.so/chrisyang9305/1744-5bcf4aaca2e44b44bfdae808ad22ef89)
     * [1541. 잃어버린 괄호](https://www.notion.so/chrisyang9305/1541-0f3612c82aca41beb0376d9cfd912678)
-    
+    * [1946. 신입 사원](https://www.notion.so/chrisyang9305/1946-c97dc7a25b744815b9f1f212bc45a7e7)
+  
+* #### Greedy
+    * [1260. DFS와 BFS](https://www.notion.so/chrisyang9305/1260-DFS-BFS-2fad8efcc6ca49379d3727655da7a5b1)
+
+
 <br><br>
 
 ## **2. 프로그래머스**
