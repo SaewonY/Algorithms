@@ -27,6 +27,8 @@
 
 * #### Greedy
     * [1339. 단어 수학](https://www.notion.so/chrisyang9305/1339-3370c510632748f7a1839fc0f5972f15)
+    * [1744. 수 묶기](https://www.notion.so/chrisyang9305/1744-5bcf4aaca2e44b44bfdae808ad22ef89)
+    * [1541. 잃어버린 괄호](https://www.notion.so/chrisyang9305/1541-0f3612c82aca41beb0376d9cfd912678)
     
 <br><br>
 
