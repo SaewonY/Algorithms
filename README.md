@@ -35,6 +35,8 @@
     * [1260. DFS와 BFS](https://www.notion.so/chrisyang9305/1260-DFS-BFS-2fad8efcc6ca49379d3727655da7a5b1)
     * [2606. 바이러스](https://www.notion.so/chrisyang9305/2606-0ab90f434fcd4b3c8b22c60a352d0e56)
     * [2667. 단지번호붙이기](https://www.notion.so/chrisyang9305/2667-f6dab229724648b198dd9bcba7971732)
+    * [1012. 유기농 배추](https://www.notion.so/chrisyang9305/1012-e06c75b6f20b435a89303ffdaa38ceb1)
+    * [2178. 미로 탐색](https://www.notion.so/chrisyang9305/2178-7dca5eaed5d94b48afef0051f85af4ce)
 
 
 <br><br>
