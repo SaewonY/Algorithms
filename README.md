@@ -37,7 +37,8 @@
     * [2667. 단지번호붙이기](https://www.notion.so/chrisyang9305/2667-f6dab229724648b198dd9bcba7971732)
     * [1012. 유기농 배추](https://www.notion.so/chrisyang9305/1012-e06c75b6f20b435a89303ffdaa38ceb1)
     * [2178. 미로 탐색](https://www.notion.so/chrisyang9305/2178-7dca5eaed5d94b48afef0051f85af4ce)
-
+    * [7576. 토마토](https://www.notion.so/chrisyang9305/7576-9da4ae80c8d443c7986e359621ce5ea0)
+    * [7569. 토마토 2](https://www.notion.so/chrisyang9305/7569-2-5c769fc8dbf64b218ffe9f3a9c05a9db)
 
 <br><br>
 
