@@ -41,7 +41,8 @@
     * [7569. 토마토 2](https://www.notion.so/chrisyang9305/7569-2-5c769fc8dbf64b218ffe9f3a9c05a9db)
     * [1697. 숨박꼭질](https://www.notion.so/chrisyang9305/1697-0598decf2a644e699bd83695f90d4b79)
     * [14502. 연구소](https://www.notion.so/chrisyang9305/14502-4de0c899ceaa41fc86fa5d93e8949425)
-
+    * [2206. 벽 부수고 이동하기](https://www.notion.so/chrisyang9305/2206-a5d3f08e8a1e4e7f8381fc4946f83731)
+    * [2146. 다리 만들기](https://www.notion.so/chrisyang9305/2146-ec2942f6047348f89244cf7c4525a64b)
 
 <br><br>
 
