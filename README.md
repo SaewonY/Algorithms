@@ -50,6 +50,10 @@
 
 * #### 우선순위 큐
     * [11279. 최대 힙](https://www.notion.so/chrisyang9305/11279-0a70feb74b08436c9d6031a1f10fb866)
+    * [1927. 최소 힙](https://www.notion.so/chrisyang9305/1927-8ecb9d938c394c0389f335f98e331b42)
+    * [11286. 절대값 힙](https://www.notion.so/chrisyang9305/11286-e00ac7775e5b40d4b0d63d13b4c019c3)
+
+* #### 최단경로
     * [1504. 특정한 최단경로](https://www.notion.so/chrisyang9305/1504-f42edea1d78d44e68ca35b1b31d4ff60)
     * [11404. 플로이드 워샬](https://www.notion.so/chrisyang9305/11404-9e6691ae611c4b898eee04911a009b64)
   
