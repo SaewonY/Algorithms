@@ -56,7 +56,10 @@
 * #### 최단경로
     * [1504. 특정한 최단경로](https://www.notion.so/chrisyang9305/1504-f42edea1d78d44e68ca35b1b31d4ff60)
     * [11404. 플로이드 워샬](https://www.notion.so/chrisyang9305/11404-9e6691ae611c4b898eee04911a009b64)
-  
+    * [1956. 운동](https://www.notion.so/chrisyang9305/1956-dd2f349a068243c0bfb61f1129ee0252)
+
+* #### 다이나믹 프로그래밍
+    * [1904. 01타일](https://www.notion.so/chrisyang9305/1904-01-67d2b024ff4c4ad2a665eb9aa1d91be1)
 
 <br><br>
 
