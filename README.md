@@ -60,6 +60,8 @@
 
 * #### 다이나믹 프로그래밍
     * [1904. 01타일](https://www.notion.so/chrisyang9305/1904-01-67d2b024ff4c4ad2a665eb9aa1d91be1)
+    * [9641. 파도반 수열](https://www.notion.so/chrisyang9305/9641-8c3be77bf7e8470a940ea16f8658ee2e)
+    * [1149. RGB거리](https://www.notion.so/chrisyang9305/1149-RGB-1740b867e43d4804af23fa11515b6f25)
 
 <br><br>
 
