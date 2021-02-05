@@ -62,6 +62,9 @@
     * [1904. 01타일](https://www.notion.so/chrisyang9305/1904-01-67d2b024ff4c4ad2a665eb9aa1d91be1)
     * [9641. 파도반 수열](https://www.notion.so/chrisyang9305/9641-8c3be77bf7e8470a940ea16f8658ee2e)
     * [1149. RGB거리](https://www.notion.so/chrisyang9305/1149-RGB-1740b867e43d4804af23fa11515b6f25)
+    * [1932. 정수삼각형](https://www.notion.so/chrisyang9305/1932-b865aedd3cdd4434a58222c7b8a00af5)
+    * [2579. 계단 오르기](https://www.notion.so/chrisyang9305/2579-21409bf79306447d9ca2f7c633211e3f)
+
 
 <br><br>
 
