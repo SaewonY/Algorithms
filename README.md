@@ -66,6 +66,8 @@
     * [2579. 계단 오르기](https://www.notion.so/chrisyang9305/2579-21409bf79306447d9ca2f7c633211e3f)
     * [1463. 1로 만들기](https://www.notion.so/chrisyang9305/1463-1-6aa78a6707144f298eb7f1e1cc9fe754)
     * [9251. LCS](https://www.notion.so/chrisyang9305/9251-LCS-39240d378dae4166b283c35e15e9a8be)
+    * [14002. 가장 긴 증가하는 부분 수열 4](https://www.notion.so/chrisyang9305/14002-4-8fa6131cc3534d24b81f751a433b27e9)
+    * [11054. 가장 긴 바이토닉 부분 수열](https://www.notion.so/chrisyang9305/11054-18dcb1ac44214bb9abf01db5a89065da)
 
 <br><br>
 
