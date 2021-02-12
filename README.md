@@ -68,6 +68,8 @@
     * [9251. LCS](https://www.notion.so/chrisyang9305/9251-LCS-39240d378dae4166b283c35e15e9a8be)
     * [14002. 가장 긴 증가하는 부분 수열 4](https://www.notion.so/chrisyang9305/14002-4-8fa6131cc3534d24b81f751a433b27e9)
     * [11054. 가장 긴 바이토닉 부분 수열](https://www.notion.so/chrisyang9305/11054-18dcb1ac44214bb9abf01db5a89065da)
+    * [2225. 합분해](https://www.notion.so/chrisyang9305/2225-e605c41d3c0d44f389a21dcb17de8be2)
+    * [11054. 가장 긴 바이토닉 부분 수열](https://www.notion.so/chrisyang9305/11054-18dcb1ac44214bb9abf01db5a89065da)
 
 <br><br>
 
