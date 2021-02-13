@@ -69,7 +69,11 @@
     * [14002. 가장 긴 증가하는 부분 수열 4](https://www.notion.so/chrisyang9305/14002-4-8fa6131cc3534d24b81f751a433b27e9)
     * [11054. 가장 긴 바이토닉 부분 수열](https://www.notion.so/chrisyang9305/11054-18dcb1ac44214bb9abf01db5a89065da)
     * [2225. 합분해](https://www.notion.so/chrisyang9305/2225-e605c41d3c0d44f389a21dcb17de8be2)
-    * [11054. 가장 긴 바이토닉 부분 수열](https://www.notion.so/chrisyang9305/11054-18dcb1ac44214bb9abf01db5a89065da)
+    * [1005. ACM Craft](https://www.notion.so/chrisyang9305/1005-ACM-Craft-64293d71a9364e8184e76dd83e273180)
+
+* #### 다이나믹 프로그래밍
+    * [3020. 개똥벌레](https://www.notion.so/chrisyang9305/3020-8653bf5859914e62891bc4a277f6fd23)
+
 
 <br><br>
 
